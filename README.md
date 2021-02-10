@@ -11,5 +11,6 @@ example of creating an api rest
 ## Run the project
 
 At the terminal run `./mvnw spring-boot:run`
-Navigate to http://localhost:8080/greeting
+Navigate to `http://localhost:8080/greeting`
+`http://localhost:8080/greeting?name=User`
 
